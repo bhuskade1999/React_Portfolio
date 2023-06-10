@@ -1,0 +1,43 @@
+{
+  "projects": [
+    {
+      "date": "Apr - 2023",
+      "title": "Social Media App",
+      "description": "This project based on social media like instagram where users can create account ,create post, follow user,like post ,comment on post and so many other functionality.",
+      "url": " https://github.com/bhuskade1999/My_Social_Media_App",
+      "imgSrc": "https://res.cloudinary.com/dbq3el74q/image/upload/v1684006870/portfolio/plols29m8vvgmezs2j5s.gif"
+    },
+
+    {
+      "date": "Feb - 2023",
+      "title": "E commerce website",
+      "description": "This Project Contain backend code of online shopping plarform like amazone and Flipkarts, where user can create account and doing shopping what ever they needed. this project contain so many funcationality like any paltform",
+      "url": "https://github.com/bhuskade1999/My-Project-5-Shopping-Cart",
+      "imgSrc":  "https://res.cloudinary.com/dbq3el74q/image/upload/v1683744719/portfolio/h7erpqtzqj1rwgnkyjvi.gif"
+    },
+    {
+      "date": "Jan - 2023",
+      "title": "Book Management",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://github.com/bhuskade1999/My-Project-4-Book-Management",
+      "imgSrc": "https://res.cloudinary.com/dbq3el74q/image/upload/v1683742683/portfolio/wql4kbildh5ffceemphy.gif"
+    },
+
+    {
+      "date": "Jan - 2023",
+      "title": "Url Shortner",
+      "description": "This  Project contain backend code of url shortner website where user can create short url instance of long url .  and that short url is working properly like main urll same like that",
+      "url": "https://github.com/bhuskade1999/Project-3-Url-Shortner",
+      "imgSrc": "https://res.cloudinary.com/dbq3el74q/image/upload/v1683743039/portfolio/erhwosfkjgi87r7dettg.gif"
+    },
+    
+    {
+      "date": "Jan - 2023",
+      "title": "Blogging Site",
+      "description": "This project is a backend of blogging website involves designing and implementing a web platform that enables users to create and publish their own written content in the form of blog posts...",
+      "url": "https://github.com/bhuskade1999/Project-1-BloggingSite",
+      "imgSrc": "https://res.cloudinary.com/dbq3el74q/image/upload/v1683742456/portfolio/zmikrt9rd6tz6rmajqsy.gif"
+    }
+    
+  ]
+}
